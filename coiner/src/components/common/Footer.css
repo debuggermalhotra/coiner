@@ -1,4 +1,4 @@
-.Header {
+.Footer {
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -12,22 +12,16 @@
     height: 100px;
   }
   
-  .Header-logo {
+  .Footer-logo {
     position: absolute;
     top: 10px;
     left: 20px;
     width: 90px;
   }
 
-  .tagline {
-    
-    top: 20px;
-    right: 250px;
-    
-  }
-  
+ 
   @media (max-width: 700px) {
-    .Header-logo {
+    .Footer-logo {
       display: none;
     }
 }
