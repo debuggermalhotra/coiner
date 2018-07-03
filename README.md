@@ -1,5 +1,5 @@
 # coiner
-The cryptocurrency tracker!!
+The cryptocurrency tracker!
 
 
 #### Not deployed to production yet!
